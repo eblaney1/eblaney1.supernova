@@ -144,7 +144,7 @@
 <section class="hero">
     <h1>Welcome to the Tech Student Survival Guide</h1>
     <p>Simple, step-by-step help to make technology less scary and more useful.</p>
-    <img src="https://images.unsplash.com/photo-1581091870621-0f9d7d0e5a91?fit=crop&w=1000&q=80" alt="Student with laptop" />
+    <img src="[https://images.unsplash.com/photo-1581091870621-0f9d7d0e5a91?fit=crop&w=1000&q=80](https://patch.com/img/cdn20/users/23259609/20190301/124032/styles/raw/public/processed_images/30971070617_095106e87a-1551418431-1066.jpg)" alt="Student with laptop" />
     <button onclick="scrollToSection('overview')">Get Started</button>
 </section>
 
@@ -274,6 +274,7 @@
 
 </body>
 </html>
+
 
 
 
